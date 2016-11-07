@@ -94,3 +94,11 @@ objednat knizky pro okin i labku [ipv6. mejakej linux, git, rabsberry PI]
 udelat soutez jak v okin labu, tak v labce - sdr, raspberry
 vpn 
 irc-irssi talk
+nastavit na darkstar klice k ssh
+Git set na darkstaru
+---------------
+Tue Nov 8 00:34:48 CET 2016
+======
+---------------
+Tue Nov 8 00:35:04 CET 2016
+======
