@@ -1,0 +1,104 @@
+KOMPLETNI DODO z IRC:
+00:31:54 ====== [ Over's ToDo ] ======
+00:31:54 Prozkoumat OZO Slovenka ulice - vrakoviste na material
+00:31:54 interni stanova ohledne placeni
+00:31:54
+00:31:54 dron nebo [?]: wiki kalendar, credentials 
+00:31:54 Navstivenky pro Over@labka a labka itself - nalepky
+00:31:54 talky - ip cam, who when what
+00:31:54 pridat banka script na GIT a do sekretarky, upravit
+00:31:54 datovka pro Labku
+00:31:54 check brmdoor
+00:31:54 check brmsklad
+00:31:54 Lampicka na vyrobu hvezdne oblohy: 
+          http://www.instructables.com/id/Making-an-LED-Night-Light-W-Star-Pattern/
+00:31:56 svarecka a vubec placeni projektu
+00:31:55 udelat diry do zdi - vrtaky do zdi; zakreslit kde bude co
+00:31:55 rozsirit seznam klicu
+00:31:55 udelat hlidani kdo ma zaplaceno, radima zapocitat za 50% [interni predpis]
+00:31:54 plugin na sdilene bookmarky [html klidne]
+00:31:54 poridit slackline - vyrseit kde na dvore
+00:31:55 shadowrun session
+00:31:54 zmenit Favicon labky - podbarvit pejska
+00:31:54 Parabolicky mikrofon: 
+          http://www.instructables.com/id/Dollar-Store-Parabolic-Mic/?ALLSTEPS
+00:31:54 mikrofon smerovy
+00:31:54 piezo
+00:31:54 elektrosluch
+00:31:54 teremin
+
+00:31:54 Napsat radnim na Slezske, jestli nemaji na prodej brownfield
+00:31:54 http://www.prodamkontejner.cz/prodej-kontejneru/kontejnery-ostrava/ - 
+          konteinery
+00:31:54 naucit se pouzivat promenne, aby cron umel treba poslat neco do topic
+00:31:54 upravit VAR, aby nemizely nektere nuly, predevsim pocatecni
+00:31:54 vymyslet kam jet na dovolenou pres prazdniny, pripadne kam jedou lidi z 
+          Labky/Brmlabu/B48
+00:31:54 naucit kazdou instanci irc logovat jinam
+00:31:54 Brownfields v Ostrave: 
+https://www.ostrava.cz/cs/podnikatel-investor/investicni-prilezitosti/brownfieldy
+00:31:54 http://dadala.hyperlinx.cz/nakl/naklr0044.html - nakladana vejce po anglicku
+00:31:54 udelat instanci sekretarky, ktera si bude povidat s Muaddibem... optat se 
+          Paskyho, jestli mi pujci druhy mozek
+00:31:54 kam jet kam jet na dovolenou pres prazdniny, pripadne kam jedou lidi z 
+          Labky/Brmlabu/B48
+00:31:54 zalozit na Wiki user Secretary, a dat ji prava psat jen do jedne stranky, 
+          pomoci curl POST < file
+00:31:54 zeptat se otce na dedovo naradi, hlavne kotoucovka a plynovej varic/horak
+
+00:31:54 rozsirist seznam pristupu ke klicum
+
+
+00:31:54 seed bombs
+00:31:54 save: We need to have a plan so that we know what we're deviating from.
+
+00:31:54 podivat se, jak udelat police z plastovych [papirove existuji?] kolen a 
+          plastovych [papirovych] trubek
+00:31:54 http://www.naradinazahradu.cz/hecht-1820-elektricka-svarecka-invertor/
+00:31:54 nakonfigurovat Alpine pro over@labka.cz 
+http://objectmix.com/pine/747895-configure-alpine-w-multiple-email-accounts.html
+00:31:54 kniha perl
+00:31:54 talknight GIT + Ansibke
+00:31:54 ze mam vyresit VLC streamovani s delenou obrazovkou [na pulce commandline, na 
+          druhe video z kamery]
+zavolat tatovi jaky ma novy email, je-li jaky
+zaplatit nyx
+
+zoom.co.jp/dowloads = update zoom h1
+strem zvuku a obrazu pomoci VLC na talky + record
+Ducharovi kredence pro UPC mrdku
+nakonfigurovat nejaky stroje viditelne smerem ven
+odpovedet Kristina Vulgan a Letnisovi - sehnat paskiho a hexa
+Labka Kalendar
+Dron Ansible Workshop
+
+todo to git
+ipv6 talk
+Julia talk
+stream se zvukem
+LAMP + owncloud + git [jako ma cznic] + lets encrypt
+linky z kanalu labka na GitHub i s dalsim radkem
+ucto
+vyparsovat z videa jen zvuk
+dron hardening talk
+do cronu dat mailto ohledne prispevku, vyparsovane s platbou
+novej obrazek do topicu na facebook
+najit nejakej hezkej vizualizacni tool
+do cronu na wiki dat 24.11. jako vyroci labky
+talk cryptomeny ivan 
+promitani hackerskych filmu
+vytisknout todo a list projektu
+privrtat pegboard
+sehnat sklo aby byla tabule
+objednat knizky pro okin i labku [ipv6. mejakej linux, git, rabsberry PI]
+udelat soutez jak v okin labu, tak v labce - sdr, raspberry
+vpn 
+irc-irssi talk
+nastavit na darkstar klice k ssh
+Git set na darkstaru
+---------------
+Tue Nov 8 00:34:48 CET 2016
+======
+---------------
+Tue Nov 8 00:35:04 CET 2016
+======
